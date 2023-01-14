@@ -9,7 +9,7 @@ So the result was different because there are many distance metrics, as shown in
 !['Manhattan'](images_cvS1/Manhattan.jpg)
 !['Minkowski'](images_cvS1/Minkowski.jpg)
 !['Hamming'](images_cvS1/Hamming.jpg)
-<br/>
+
 The following table showed that Euclidean is the best distance metric.
 !['testAccurices_KNN'](images_cvS1/testAccurices.jpg)
 - This project also used <strong>LogisticRegression()</strong> and executed the OvR strategy for the Cifar10 classes. The result is shown in the following figure:
